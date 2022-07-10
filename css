@@ -1,0 +1,44 @@
+*{
+    padding: 0;margin: 0;
+}
+.main{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+
+height: 89.3vh;
+width: 100vw;
+}
+#nav{
+    font-family: 'Lobster', cursive;
+    background-color: #52ACFF;
+background-image: linear-gradient(180deg, #52ACFF 25%, #FFE32C 100%);
+
+}
+.content{
+    padding: 5px;
+    padding-top: 10vh;
+    padding-left: 13vw;
+    
+}
+.amount{
+    font-family: 'Sedgwick Ave', cursive;
+}
+.duration,.ret{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+#calc{
+    padding-top: 2vh;
+    margin-left: 50vw;
+}
+#totalinvested,#totalreturn,#profit{
+    font-family: 'Arvo', serif;
+    padding-left: 50px;
+}
+.input{
+    margin-left: -5vw;
+}
+
